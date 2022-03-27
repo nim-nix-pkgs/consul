@@ -11,6 +11,7 @@
   inputs.src-consul-master.ref   = "refs/heads/master";
   inputs.src-consul-master.owner = "makingspace";
   inputs.src-consul-master.repo  = "nim_consul";
+  inputs.src-consul-master.dir   = "";
   inputs.src-consul-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
