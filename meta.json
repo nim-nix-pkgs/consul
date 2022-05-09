@@ -7,7 +7,7 @@
   "license": "BSD2",
   "web": "https://github.com/makingspace/nim_consul",
   "refs": [
-    "fatal: unable to access 'https://github.com/makingspace/nim_consul/': Error in the HTTP2 framing layer",
+    "fatal: unable to access 'https://github.com/makingspace/nim_consul/': SSL connection timeout",
     ""
   ],
   "heads": []
